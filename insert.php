@@ -13,3 +13,4 @@ if ($row > 0)
     return header('Location: ./index.php');
 else
     echo "Error";
+?>
